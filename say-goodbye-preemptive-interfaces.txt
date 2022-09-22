@@ -1,0 +1,1 @@
+https://bryanftan.medium.com/accept-interfaces-return-structs-in-go-d4cab29a301b
